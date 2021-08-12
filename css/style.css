@@ -1,0 +1,146 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.nav-link
+{
+	color: black;
+	font-weight: 600;
+}
+
+.navbar-brand
+{
+	color: black;
+	font-size: 30px;
+	font-weight: 800;
+}
+
+ 
+}
+.text h1
+{
+	color: #000;
+}
+.carousel-caption p 
+{
+	font-weight: 600;
+	color: #000;
+}
+
+.sub
+{
+   background-color: #252525;
+}
+.sub input
+{
+	height: 51px;
+	width: 50%;
+	color: black;
+	outline: none;
+	padding: 10px;
+}
+.btn1
+{
+	height: 50px;
+	width: 50%;
+	color: white;
+	background-color: green;
+	outline: none;
+	border: none;
+	margin-left: -2px;
+}
+.btn1:hover
+{
+	background-color: black;
+	color: white;
+}
+.collection h1
+{
+	text-align: center;
+	margin: 30px;
+	padding-bottom: 30px;
+	color: #eb280e
+}
+
+.parallex
+{
+	background: url(https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80)no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+}
+.parallex h1
+{
+	font-size: 55px;
+	font-weight: 700;
+}
+.parallex p
+{
+	font-size: 22px;
+	font-weight: 200;
+}
+.btn2
+{
+	height: 40px;
+	width: 110px;
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	outline: none;
+	
+	border-radius: 4px;
+
+}
+.btn2:hover
+{
+	background-color: #fff;
+	color: green;
+	transition: 0.3s;
+	border:none; 
+}
+.btn3
+{
+	height: 40px;
+	width: 110px;
+	background-color: #fff;
+	border:none;
+	color: green;
+	border-radius: 4px;
+}
+.btn3:hover
+{
+	background-color: #4b4747;
+	color: #fff;
+	transition: 0.3s;
+	border:none;
+	outline: none;
+	transition: 0.3s;
+}
+
+.contact input
+{
+   height: 50px;
+   width: 100%;
+   outline: none;
+   border:none;
+   color: gray;
+   background-color: white;
+   padding: 10px;
+   -webkit-box-shadow: 5px 4px 15px -1px rgba(0,0,0,0.89); 
+box-shadow: 5px 4px 15px -1px rgba(0,0,0,0.89);
+} 
+
+.btn4
+{
+	height: 45px;
+	width: 160px;
+	background-color: green;
+	color: #fff;
+	outline: none;
+	border:none;
+	cursor: pointer;
+	display: inline-block;
+
+}
